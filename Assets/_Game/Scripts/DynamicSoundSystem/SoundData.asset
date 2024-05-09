@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4213a9e76e53eb845b571df1fdfd7fbc, type: 3}
-  m_Name: SoundData_
+  m_Name: SoundData
   m_EditorClassIdentifier: 
   _audioSource: {fileID: 0}
   _volume: 0
   toolTipDemo: 0
+  range: 10
   _tracks: 0
